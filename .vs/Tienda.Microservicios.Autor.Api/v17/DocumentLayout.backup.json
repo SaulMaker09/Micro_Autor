@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\aplicacion\\actualizarautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\aplicacion\\actualizarautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\modelo\\autorlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\modelo\\autorlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\aplicacion\\eliminarautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\aplicacion\\eliminarautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\aplicacion\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\aplicacion\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\aplicacion\\autordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\aplicacion\\autordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\aplicacion\\consultafiltronombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\aplicacion\\consultafiltronombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\aplicacion\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\aplicacion\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\persistencia\\contextoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\persistencia\\contextoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\extensions\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\extensions\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\aplicacion\\consultarfiltro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\aplicacion\\consultarfiltro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\aplicacion\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\aplicacion\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\modelo\\gradoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\modelo\\gradoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|c:\\users\\perez\\desktop\\proyectos_erick\\tienda.microservicios.autor.api\\tienda.microservicios.autor.api\\migrations\\20250626022905_db_ev1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2ECB9-F0C4-498F-A867-AF2595F4C247}|Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api.csproj|solutionrelative:tienda.microservicios.autor.api\\migrations\\20250626022905_db_ev1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Dockerfile",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Dockerfile",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-26T22:03:43.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActualizarAutor.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\ActualizarAutor.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Aplicacion\\ActualizarAutor.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\ActualizarAutor.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Aplicacion\\ActualizarAutor.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvyAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:02:55.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EliminarAutor.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\EliminarAutor.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Aplicacion\\EliminarAutor.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\EliminarAutor.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Aplicacion\\EliminarAutor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBsAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:02:46.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250626022905_DB_eV1.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Migrations\\20250626022905_DB_eV1.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Migrations\\20250626022905_DB_eV1.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Migrations\\20250626022905_DB_eV1.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Migrations\\20250626022905_DB_eV1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:29:05.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Program.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:54:59.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Controllers\\AutorController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwDIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:25:47.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\Consulta.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Aplicacion\\Consulta.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\Consulta.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Aplicacion\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:44:03.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsultaFiltroNombre.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\ConsultaFiltroNombre.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Aplicacion\\ConsultaFiltroNombre.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\ConsultaFiltroNombre.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Aplicacion\\ConsultaFiltroNombre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:25:13.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsultarFiltro.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\ConsultarFiltro.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Aplicacion\\ConsultarFiltro.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\ConsultarFiltro.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Aplicacion\\ConsultarFiltro.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:07:21.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Aplicacion\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\MappingProfile.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Aplicacion\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:06:58.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Nuevo.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\Nuevo.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Aplicacion\\Nuevo.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\Nuevo.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Aplicacion\\Nuevo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T22:46:52.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutorDto.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\AutorDto.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Aplicacion\\AutorDto.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Aplicacion\\AutorDto.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Aplicacion\\AutorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T22:38:34.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\appsettings.json",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T22:35:30.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceCollectionExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\extensions\\ServiceCollectionExtentions.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\extensions\\ServiceCollectionExtentions.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\extensions\\ServiceCollectionExtentions.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\extensions\\ServiceCollectionExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T22:29:23.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContextoAutor.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Persistencia\\ContextoAutor.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Persistencia\\ContextoAutor.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Persistencia\\ContextoAutor.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Persistencia\\ContextoAutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T22:25:33.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GradoAcademico.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Modelo\\GradoAcademico.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Modelo\\GradoAcademico.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Modelo\\GradoAcademico.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Modelo\\GradoAcademico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T22:20:45.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorLibro.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Modelo\\AutorLibro.cs",
+              "RelativeDocumentMoniker": "Tienda.Microservicios.Autor.Api\\Modelo\\AutorLibro.cs",
+              "ToolTip": "C:\\Users\\perez\\Desktop\\PROYECTOS_ERICK\\Tienda.Microservicios.Autor.Api\\Tienda.Microservicios.Autor.Api\\Modelo\\AutorLibro.cs",
+              "RelativeToolTip": "Tienda.Microservicios.Autor.Api\\Modelo\\AutorLibro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T22:13:09.636Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
