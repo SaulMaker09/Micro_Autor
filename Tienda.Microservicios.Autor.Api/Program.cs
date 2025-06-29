@@ -4,7 +4,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllers();
-builder.Services.AddEndpointsApiExplorer(); // Swagger b·sico
+builder.Services.AddEndpointsApiExplorer(); // Swagger b√°sico
 builder.Services.AddSwaggerGen();           // Swagger generator
 
 builder.Services.AddCustomServices(builder.Configuration); // Tu DI personalizada
@@ -31,12 +31,11 @@ var app = builder.Build();
 app.UseCors("PermitirTodo");
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+
     app.UseDeveloperExceptionPage();
     app.UseSwagger();       // Activa el middleware Swagger
     app.UseSwaggerUI();     // Habilita la UI (https://localhost:xxxx/swagger)
-}
+
 
 app.UseCors(); // Agregar antes de UseAuthorization()
 
