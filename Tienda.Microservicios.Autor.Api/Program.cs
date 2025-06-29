@@ -26,6 +26,13 @@ builder.Services.AddCors(options =>
     });
 });
 
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+
+builder.WebHost.ConfigureKestrel(serverOptions =>
+{
+    serverOptions.ListenAnyIP(int.Parse(port));
+});
+
 
 var app = builder.Build();
 app.UseCors("PermitirTodo");
